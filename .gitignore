@@ -52,6 +52,7 @@ Mkfile.old
 dkms.conf
 
 .vscode/
-qtest
+*test
 *.tar
 debug.c
+*show
